@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Naman Singh</h1>
 <h3 align="center">I am MERN full stack developer along with extensive knowledge of Mobile App Development</h3>
 
+- 🔭 I’m currently working on **Social Media Web App(MERN)**
+
+- 🌱 I’m currently learning **Mongo DB**
+
+- 👨‍💻 All of my projects are available at [https://github.com/namanSingh101](https://github.com/namanSingh101)
+
+- 💬 Ask me about **React Js ,**
+
+- 📫 How to reach me **naman10jan@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/18Rp4nQ3AmOYmDmSHFR8mDb5XBLJPkU0I/view?usp=sharing](https://drive.google.com/file/d/18Rp4nQ3AmOYmDmSHFR8mDb5XBLJPkU0I/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/naman-singh-53a902162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/naman-singh-53a902162" height="30" width="40" /></a>
