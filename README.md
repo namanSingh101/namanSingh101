@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Naman Singh</h1>
-<h3 align="center">I am MERN full stack developer along with extensive knowledge of Mobile App Development</h3>
+<h3 align="center">🧑‍💻 Backend dev turning data into products.
+🔧 Django | 🧠 Data Science | ☁️ DevOps & Cloud</h3>
 
-- 🔭 I’m currently working on **Social Media Web App(MERN)**
+- 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Mongo DB**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/namanSingh101](https://github.com/namanSingh101)
 
-- 💬 Ask me about **React Js ,**
+- 💬 Ask me about **Nothing**
 
 - 📫 How to reach me **naman10jan@gmail.com**
 
