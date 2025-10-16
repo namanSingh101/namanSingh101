@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **naman10jan@gmail.com**
 
-- 📄 Know about my experiences  [Resume](https://drive.google.com/file/d/1MMtrBv52FaLE22uHFS_fPLbfnc9-e1q0/view?usp=drive_link) 
+- 📄 Know about my experiences  [Resume](https://drive.google.com/file/d/1RX418pzrXEBI8a8KbuDYC9Q67zseWc7P/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
